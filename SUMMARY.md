@@ -15,6 +15,7 @@
 * [Everyday tools](tools/tools.md)
 * [Islamic tools](tools/islamic.md)
 * [Star signs and the real sky](tools/zodiac.md)
+* [Business: staff, stock and attendance](tools/business.md)
 
 ## Connect
 * [Your professional profile](people/profile.md)
