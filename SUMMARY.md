@@ -37,6 +37,7 @@
 ## Community
 * [Blood bank](community/blood-bank.md)
 * [Donate](community/donate.md)
+* [Feed](community/feed.md)
 * [Chat](community/chat.md)
 * [Birthdays, news and weather](community/more.md)
 
