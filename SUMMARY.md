@@ -26,6 +26,7 @@
 * [My pets](pets/my-pets.md)
 * [The QR tag](pets/qr-tag.md)
 * [Lost and found](pets/lost-found.md)
+* [Adoption and vets](pets/adopt-vets.md)
 
 ## Shows
 * [Dramas and films](shows/shows.md)
