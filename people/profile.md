@@ -4,11 +4,11 @@ Build it at [xpertcreation.com/me/profile](https://xpertcreation.com/me/profile)
 
 ## What to fill in
 - **Headline:** one line about what you do, for example "Excel trainer and VBA developer"
-- **City:** start typing and pick from the list
+- **Where you live:** pick your country (with its flag), then your state or province, then your city, all from lists
 - **About:** a few lines about yourself
 - **Open to work:** tick it and say what kind of work
-- **Links:** your website; for LinkedIn and GitHub just type your username
-- **Skills:** up to thirty
+- **Links:** your website, and your social links: Facebook, Instagram, X, TikTok, YouTube, LinkedIn, GitHub, WhatsApp and many more. Type just your username
+- **Skills:** start typing and pick from the list, so everyone uses the same names
 - **Experience:** your jobs, with dates
 - **Education:** schools, colleges and universities
 
@@ -17,4 +17,6 @@ Build it at [xpertcreation.com/me/profile](https://xpertcreation.com/me/profile)
 - **Signed-in members** (the default)
 - **Only me**
 
-Find other members at [xpertcreation.com/people](https://xpertcreation.com/people) by name, skill or city.
+A preview at the top of the page shows the card other members will see, and it changes as you type.
+
+Find other members in **Connect** at [xpertcreation.com/people](https://xpertcreation.com/people) by name, skill or city.

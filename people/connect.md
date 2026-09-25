@@ -5,6 +5,9 @@ Press **Connect** on someone's profile. They get a notification and can accept o
 
 To keep things friendly: up to thirty requests a day, and after a request is declined you can ask again only after thirty days.
 
+## Your lists
+On your profile page, tap **followers**, **following** or **connections** to see the people. Each connection has a **Message** button.
+
 ## Follow
 Following is one-way and needs nobody's approval. Your profile shows your followers, who you follow and your connections.
 

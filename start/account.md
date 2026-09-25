@@ -14,6 +14,7 @@ At [xpertcreation.com/account](https://xpertcreation.com/account) you can:
 - add your birthday (it fills in the age calculator and your star sign by itself)
 - add a WhatsApp number
 - change your privacy settings
+- open **Social links** to add your Facebook, Instagram, X and other accounts to your profile
 
 ## Deleting your account
 Go to [xpertcreation.com/account/delete](https://xpertcreation.com/account/delete). Deleting removes your account and what belongs to it. It cannot be undone.

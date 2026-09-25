@@ -16,7 +16,7 @@
 * [Islamic tools](tools/islamic.md)
 * [Star signs and the real sky](tools/zodiac.md)
 
-## People
+## Connect
 * [Your professional profile](people/profile.md)
 * [Connect, follow and endorse](people/connect.md)
 * [The blue tick](people/blue-tick.md)
