@@ -8,3 +8,9 @@ Points come from two games only:
 - **Tic-tac-toe against the computer:** win 100, draw 40, lose 10; ×2 on medium and ×4 on hard
 
 The other games run in your browser and send nothing, so they do not add points.
+
+## Arrow Escape
+Tap an arrow whose way out is clear. There is no skipping: every level can be solved. Every fifth level, and some others, hide an animal; clear the board to reveal it and add it to your collection.
+
+## Ludo
+Choose 2, 3 or 4 players before the first roll. Once a game is on, the players stay the same until it ends. To start again mid-game, tap **New game** and pick who is quitting: that player loses.
