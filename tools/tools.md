@@ -10,7 +10,10 @@ More than seventy free tools at [xpertcreation.com/tools](https://xpertcreation.
 - **Health:** BMI, ideal weight, body fat, due date, water a day
 - **Text:** word counter, change case, number to words, text cleaner, QR code, password maker
 - **Daily:** prayer times, Qibla direction, tasbeeh counter, WhatsApp link, passport photo, world clock, visiting card
+- **Domain & web:** DNS lookup, domain info (WHOIS: registrar, age, expiry), what is my IP, email setup check (MX, SPF, DMARC)
 - **Developer:** JSON, Base64, URL encode, hash, UUID, regex tester, colour converter, cron, epoch time, slug maker
+
+The categories at the top slide sideways: swipe them, or use the arrows.
 
 ## Filled in for you
 If your birthday is on your account, the **age calculator** shows your age as soon as it opens. You can still change the date to check someone else's.
