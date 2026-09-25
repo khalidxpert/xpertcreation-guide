@@ -16,3 +16,6 @@ Nobody can start a chat with you out of the blue. A chat opens only after you ha
 
 ## Reporting
 Profiles, reviews and posts can be reported. Moderators look at every report.
+
+## Security log
+To keep the site safe we keep a security log of actions on your account - for example signing in, posting, or sending a message - with the time, IP address and device. What you write is never copied into it. Only the site owner can see it, and each line is deleted after 180 days.
