@@ -20,3 +20,9 @@ Tap the three dots at the top of a chat. **Block** stops both of you from sendin
 
 ## Notifications on your phone
 Open your account (the gear icon) and tap **Turn on** to get a notification on that phone or computer for new messages, connection requests, endorsements and pet reminders, even when the site is closed. Tap a notification to open the right page. You can turn them off there too. On an iPhone this works once the site is added to the Home Screen.
+
+## Clear, delete and disappearing messages
+- **Clear chat** (three dots) removes the messages for you only; the other person keeps theirs.
+- **Delete chat** removes it from your list. It comes back if the other person writes again.
+- In the list, tap **Select**, pick several chats and tap **Delete**.
+- **Disappearing messages**: choose 24 hours, 7 days or 90 days. After that time messages, and their photos, are deleted for both people. A line in the chat shows who turned it on or off.
