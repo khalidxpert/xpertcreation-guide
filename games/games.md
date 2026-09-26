@@ -14,3 +14,6 @@ Tap an arrow whose way out is clear. There is no skipping: every level can be so
 
 ## Ludo
 Choose 2, 3 or 4 players before the first roll. Once a game is on, the players stay the same until it ends. To start again mid-game, tap **New game** and pick who is quitting: that player loses.
+
+## 8-Ball Pool
+At [xpertcreation.com/pool](https://xpertcreation.com/pool). Drag on the table to aim, set the power and tap **Shoot**. Pot all your solids or stripes, then the black 8-ball. Fouls give the other player the white ball in hand. Play the computer (easy, medium or hard) or a friend on the same phone.
