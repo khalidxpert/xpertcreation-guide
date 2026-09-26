@@ -17,3 +17,6 @@ Choose 2, 3 or 4 players before the first roll. Once a game is on, the players s
 
 ## 8-Ball Pool
 At [xpertcreation.com/pool](https://xpertcreation.com/pool). Drag on the table to aim, set the power and tap **Shoot**. Pot all your solids or stripes, then the black 8-ball. Fouls give the other player the white ball in hand. Play the computer (easy, medium or hard) or a friend on the same phone.
+
+## Carrom
+At [xpertcreation.com/carrom](https://xpertcreation.com/carrom). Slide the striker along your line, drag to aim forward, set the power and tap **Shoot**. Pocket your coins; the red queen must be covered by pocketing one of your coins on the next shot. Pocketing the striker is a foul. Play the computer or a friend on the same phone.
