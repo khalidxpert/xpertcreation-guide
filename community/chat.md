@@ -39,3 +39,6 @@ Tap a message and choose **Pin**. Pinned messages show in a bar at the top of th
 Every group has a bot. It welcomes new members by name, blocks words the admins do not allow (with warnings and a short mute), stops flooding, and answers commands. Type **!help** in a group to see them: !date, !time, !weather, !prayer, !dns, !calc, !roll, !joke and more. Moderators and admins can also use !warn, !mute, !kick, !ban, !pin and !clear.
 
 Admins set the bot up in group info, under **Bot**: its greeting, rules, blocked words, limits, timed messages and moderators, and they can read the bot log.
+
+## Voice messages
+Tap the microphone next to Send, speak, then tap **Send** (or **Cancel**). A voice message can be up to 3 minutes. The first time, allow the microphone when your phone asks. Tap play to listen; tap the speed button for 1.5x or 2x.
