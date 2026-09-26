@@ -31,3 +31,11 @@ Open your account (the gear icon) and tap **Turn on** to get a notification on t
 In Chat, tap **+ New group**, give it a name and tick the connections you want. In the group, tap its name for group info: change the name or photo, add people, make admins, turn on "Only admins can send messages", or share an **invite link**. You can **Mute**, **Report** or **Leave** a group at any time.
 
 **Groups privacy** (in Chat) decides who can add you straight into a group: Everyone, My connections, or Nobody. Anyone else can only send you an invitation, which you can accept or decline.
+
+## Pinned messages
+Tap a message and choose **Pin**. Pinned messages show in a bar at the top of the chat; tap the bar to jump to them. Up to 3 can be pinned.
+
+## Group bot
+Every group has a bot. It welcomes new members by name, blocks words the admins do not allow (with warnings and a short mute), stops flooding, and answers commands. Type **!help** in a group to see them: !date, !time, !weather, !prayer, !dns, !calc, !roll, !joke and more. Moderators and admins can also use !warn, !mute, !kick, !ban, !pin and !clear.
+
+Admins set the bot up in group info, under **Bot**: its greeting, rules, blocked words, limits, timed messages and moderators, and they can read the bot log.
