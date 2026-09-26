@@ -26,3 +26,8 @@ Open your account (the gear icon) and tap **Turn on** to get a notification on t
 - **Delete chat** removes it from your list. It comes back if the other person writes again.
 - In the list, tap **Select**, pick several chats and tap **Delete**.
 - **Disappearing messages**: choose 24 hours, 7 days or 90 days. After that time messages, and their photos, are deleted for both people. A line in the chat shows who turned it on or off.
+
+## Groups
+In Chat, tap **+ New group**, give it a name and tick the connections you want. In the group, tap its name for group info: change the name or photo, add people, make admins, turn on "Only admins can send messages", or share an **invite link**. You can **Mute**, **Report** or **Leave** a group at any time.
+
+**Groups privacy** (in Chat) decides who can add you straight into a group: Everyone, My connections, or Nobody. Anyone else can only send you an invitation, which you can accept or decline.
