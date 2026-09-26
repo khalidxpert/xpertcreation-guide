@@ -20,3 +20,6 @@ At [xpertcreation.com/pool](https://xpertcreation.com/pool). Drag on the table t
 
 ## Carrom
 At [xpertcreation.com/carrom](https://xpertcreation.com/carrom). Slide the striker along your line, drag to aim forward, set the power and tap **Shoot**. Pocket your coins; the red queen must be covered by pocketing one of your coins on the next shot. Pocketing the striker is a foul. Play the computer or a friend on the same phone.
+
+## Cricket
+At [xpertcreation.com/cricket](https://xpertcreation.com/cricket). Watch the bowler and tap a shot when the ball reaches your bat: **Defend**, **Drive** (along the ground) or **Loft** (for six, but it can be caught). Perfect timing hits boundaries. Chase the target to open the next level.
