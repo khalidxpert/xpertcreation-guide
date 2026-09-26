@@ -41,6 +41,7 @@
 * [Feed](community/feed.md)
 * [Jobs](community/jobs.md)
 * [Chat](community/chat.md)
+* [AI Assistant](community/assistant.md)
 * [Birthdays, news and weather](community/more.md)
 
 ## Help
