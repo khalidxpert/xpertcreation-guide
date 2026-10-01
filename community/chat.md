@@ -3,7 +3,7 @@
 At [xpertcreation.com/chat](https://xpertcreation.com/chat). Chat opens only between people who have agreed to something: an accepted connection, a blood request or a donation. Nobody can message you out of the blue.
 
 ## Start a chat
-Tap **+ New chat** to see the people you are connected to, and tap a name to start. To chat with someone new, send them a request in Connect first.
+Tap **+ New chat** to see the people you are connected to, and tap a name to start. To chat with someone new, send them a request in XpertConnect first.
 
 ## In a chat
 - New messages arrive by themselves while the chat is open.

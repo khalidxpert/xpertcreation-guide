@@ -1,7 +1,7 @@
 # Connect, follow and endorse
 
-## Connect
-Press **Connect** on someone's profile. They get a notification and can accept or decline. Once they accept, a **Message** button appears and you can chat.
+## XpertConnect
+Press **XpertConnect** on someone's profile. They get a notification and can accept or decline. Once they accept, a **Message** button appears and you can chat.
 
 To keep things friendly: up to thirty requests a day, and after a request is declined you can ask again only after thirty days.
 

@@ -19,4 +19,4 @@ Build it at [xpertcreation.com/me/profile](https://xpertcreation.com/me/profile)
 
 A preview at the top of the page shows the card other members will see, and it changes as you type.
 
-Find other members in **Connect** at [xpertcreation.com/people](https://xpertcreation.com/people) by name, skill or city.
+Find other members in **XpertConnect** at [xpertcreation.com/people](https://xpertcreation.com/people) by name, skill or city.
