@@ -16,3 +16,6 @@ On your job's page you see everyone who applied. **Shortlist and chat** tells th
 
 ## Stay safe
 Jobs here are free. Never pay a fee, deposit or "registration charge" to get a job. Report any job that asks for money; moderators remove it.
+
+## Who can post a job
+To keep jobs real, only **verified businesses** can post. You need a [company page](../people/companies.md) that has passed the company check (KYC). Jobs then show your company's logo and ✔ Verified badge, with a link to your company page. If you open **Post a job** without one, you will see how to set it up.

@@ -9,10 +9,12 @@
 
 ## Learn
 * [XpertAcademy](learn/academy.md)
+* [Vocabulary and Learn Norwegian](learn/vocabulary.md)
 * [Certificates and badges](learn/certificates.md)
 
 ## Tools
 * [Everyday tools](tools/tools.md)
+* [Business cards](tools/cards.md)
 * [Islamic tools](tools/islamic.md)
 * [Star signs and the real sky](tools/zodiac.md)
 * [Business: staff, stock and attendance](tools/business.md)
@@ -20,6 +22,7 @@
 ## Connect
 * [Your professional profile](people/profile.md)
 * [Connect, follow and endorse](people/connect.md)
+* [Company pages](people/companies.md)
 * [The blue tick](people/blue-tick.md)
 
 ## Pets
@@ -39,6 +42,8 @@
 * [Blood bank](community/blood-bank.md)
 * [Donate](community/donate.md)
 * [Feed](community/feed.md)
+* [Status](community/status.md)
+* [Groups and channels](community/groups.md)
 * [Jobs](community/jobs.md)
 * [Chat](community/chat.md)
 * [AI Assistant](community/assistant.md)
