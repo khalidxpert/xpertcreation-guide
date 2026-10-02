@@ -9,6 +9,7 @@
 
 ## Learn
 * [XpertAcademy](learn/academy.md)
+* [Daily MCQs](learn/mcq.md)
 * [Vocabulary and Learn Norwegian](learn/vocabulary.md)
 * [Certificates and badges](learn/certificates.md)
 
@@ -46,6 +47,7 @@
 * [Status](community/status.md)
 * [Groups and channels](community/groups.md)
 * [Jobs](community/jobs.md)
+* [Jobs, results, admissions and scholarships](community/board.md)
 * [Chat](community/chat.md)
 * [AI Assistant](community/assistant.md)
 * [Birthdays, news and weather](community/more.md)
