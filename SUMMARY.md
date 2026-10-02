@@ -17,6 +17,8 @@
 ## Tools
 * [Everyday tools](tools/tools.md)
 * [Currency rates](tools/rates.md)
+* [Electricity and gas bills](tools/bills.md)
+* [Travel in Pakistan](tools/travel.md)
 * [Business cards](tools/cards.md)
 * [Islamic tools](tools/islamic.md)
 * [Star signs and the real sky](tools/zodiac.md)
@@ -51,6 +53,7 @@
 * [Jobs, results, admissions and scholarships](community/board.md)
 * [Recipes](community/recipes.md)
 * [Urdu poetry](community/poetry.md)
+* [Predict the winner](community/predict.md)
 * [Chat](community/chat.md)
 * [AI Assistant](community/assistant.md)
 * [Birthdays, news and weather](community/more.md)
