@@ -14,6 +14,7 @@
 
 ## Tools
 * [Everyday tools](tools/tools.md)
+* [Gold, dollar and petrol rates](tools/rates.md)
 * [Business cards](tools/cards.md)
 * [Islamic tools](tools/islamic.md)
 * [Star signs and the real sky](tools/zodiac.md)
