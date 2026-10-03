@@ -37,3 +37,6 @@ Tap your photo at the top, then **🧱 My wall**, to see all your own posts. You
 **Share** opens your phone's share options, or copies the link. Every post has its own link. Use **Report** on a post or comment that breaks the rules; moderators can hide it.
 
 See also: [Status](status.md), [Groups and channels](groups.md).
+
+## Translate
+Tap **🌐 Translate** under any post to read it in another language: **English → Urdu**, **Urdu → English**, or pick from **More languages** (Arabic, Hindi, Punjabi, Pashto, Sindhi, Persian, Chinese, Turkish, German, French, Spanish, Norwegian and more). The translation appears under the post; tap **Show original** to hide it. Translations are made by AI and may not be exact.

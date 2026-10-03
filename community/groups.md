@@ -27,3 +27,6 @@ Tap **Join** to go in. If you are an admin, **Your groups** at the bottom lets y
 
 ## The XpertCreation channel
 Every member is added to the official **XpertCreation** channel, with daily news, tools, sports and drama posts.
+
+## Translate messages
+Every message in groups and channels (including **Urdu Shairi**) has a **🌐 Translate** button, the same as posts on XpertConnect.
