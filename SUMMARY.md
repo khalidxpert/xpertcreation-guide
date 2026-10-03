@@ -53,6 +53,7 @@
 * [Jobs, results, admissions and scholarships](community/board.md)
 * [Recipes](community/recipes.md)
 * [Urdu poetry](community/poetry.md)
+* [Kids](community/kids.md)
 * [Predict the winner](community/predict.md)
 * [Chat](community/chat.md)
 * [AI Assistant](community/assistant.md)
