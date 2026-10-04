@@ -54,6 +54,7 @@
 * [Recipes](community/recipes.md)
 * [Urdu poetry](community/poetry.md)
 * [Afsanay](community/afsanay.md)
+* [Library](community/library.md)
 * [Kids](community/kids.md)
 * [Predict the winner](community/predict.md)
 * [Chat](community/chat.md)
