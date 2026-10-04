@@ -8,3 +8,6 @@ At [xpertcreation.com/travel](https://xpertcreation.com/travel).
 
 ## Bus terminals
 At [xpertcreation.com/bus](https://xpertcreation.com/bus): choose a city to see its **Daewoo** and **Niazi Express** terminals with the address, a tap-to-call phone number and a map. The information comes from the companies' official websites. Call the terminal to confirm times and fares before you travel.
+
+## Airports and airlines
+At [xpertcreation.com/air](https://xpertcreation.com/air): the main airports of Pakistan with their code (LHE, ISB, KHI…) and a map, Pakistani and foreign airlines with links to their official booking and flight-status pages, and simple travel tips (when to arrive, documents, baggage).
