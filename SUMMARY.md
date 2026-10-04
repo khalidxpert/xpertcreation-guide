@@ -53,6 +53,7 @@
 * [Jobs, results, admissions and scholarships](community/board.md)
 * [Recipes](community/recipes.md)
 * [Urdu poetry](community/poetry.md)
+* [XpertClips](community/clips.md)
 * [Afsanay](community/afsanay.md)
 * [Library](community/library.md)
 * [Kids](community/kids.md)
