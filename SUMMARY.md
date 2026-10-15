@@ -6,6 +6,8 @@
 * [Your account](start/account.md)
 * [The home page](start/home.md)
 * [Privacy and safety](start/privacy.md)
+* [The Xpert app](start/app.md)
+* [Pin your favourite sections](start/pins.md)
 
 ## Learn
 * [XpertAcademy](learn/academy.md)
@@ -23,12 +25,25 @@
 * [Islamic tools](tools/islamic.md)
 * [Star signs and the real sky](tools/zodiac.md)
 * [Business: staff, stock and attendance](tools/business.md)
+* [Money](tools/money.md)
+* [Brand kit](tools/brand.md)
 
 ## Connect
 * [Your professional profile](people/profile.md)
 * [Connect, follow and endorse](people/connect.md)
 * [Company pages](people/companies.md)
+* [Get ID verified](people/verify.md)
 * [The blue tick](people/blue-tick.md)
+
+## Work and business
+* [Freelance](work/freelance.md)
+* [Property](work/property.md)
+* [Store](work/store.md)
+* [Promote and paid items](work/promote.md)
+
+## Health and travel
+* [Step counter](health/steps.md)
+* [Ladies rides](health/rides.md)
 
 ## Pets
 * [My pets](pets/my-pets.md)
@@ -49,6 +64,13 @@
 * [Feed](community/feed.md)
 * [Status](community/status.md)
 * [Groups and channels](community/groups.md)
+* [Meetups](community/meetups.md)
+* [Events](community/events.md)
+* [Articles](community/articles.md)
+* [Chat rooms (IRC)](community/chat-rooms.md)
+* [Brand Ambassadors](community/ambassadors.md)
+* [Rewards and invites](community/rewards.md)
+* [Roots of Love – family tree](community/roots.md)
 * [Jobs](community/jobs.md)
 * [Jobs, results, admissions and scholarships](community/board.md)
 * [Recipes](community/recipes.md)

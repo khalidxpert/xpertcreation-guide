@@ -1,17 +1,14 @@
-# Blue tick
+# The blue tick
 
-The blue tick next to a name shows the profile really belongs to that person. It is given after a short identity check (KYC).
+The blue tick next to a name shows a confirmed, trusted profile. It is a **paid identity check**: Rs 999, one time, **fully refunded if the check is rejected**.
 
 ## How to get it
-1. Make sure you have an [XpertConnect profile](profile.md); the tick shows on it.
-2. Open [xpertcreation.com/get-verified](https://xpertcreation.com/get-verified) (or tap your photo, then **✔️ Blue tick**).
-3. Add your **WhatsApp number**.
-4. Upload your **CNIC (front and back)** or your **passport**, and an **address proof** such as a utility bill or bank statement.
-5. Tap **Send for review**.
+1. Make sure you have an [XpertConnect profile](profile.md); the tick shows on it, on your posts and in search.
+2. Open [Promote](https://xpertcreation.com/promote) and choose **Blue tick**, then pay (card, JazzCash or Google Play in the app).
+3. Complete the [ID check](verify.md) if you have not already: WhatsApp number, CNIC or passport, and an address proof.
+4. Our team checks everything and may contact you on WhatsApp. You get a notification with the answer.
 
-Our team checks the documents and may contact you on WhatsApp. You get a notification when it is approved, or a note explaining what to fix.
-
-## Your documents
-Only you and our moderators can open them. Every opening is logged, and the files are deleted 30 days after the decision.
-
-XpertCreation staff and moderators have the tick automatically.
+## Good to know
+- An approved ID check on its own gives **ID verified**, not the blue tick.
+- XpertCreation staff, moderators and [Brand Ambassadors](../community/ambassadors.md) have the blue tick.
+- If the check is rejected, your payment is refunded in full.
